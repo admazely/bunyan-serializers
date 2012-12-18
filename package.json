@@ -1,0 +1,32 @@
+{
+  "name": "bunyan-serializers",
+  "description": "A few customized serializers for the bunyan logging framework",
+  "version": "0.0.1",
+  "author": "Admazely <dev@admaze.ly>",
+  "maintainers": [
+    "AndreasMadsen <andreas@admaze.ly>",
+    "David Björklund <david@admaze.ly>"
+  ],
+  "main": "./serializers.js",
+  "scripts": {
+    "test": "tap ./test"
+  },
+  "repository" : {
+    "type": "git",
+    "url": "git://github.com/Admazely/bunyan-serializers.git"
+  },
+  "keywords": [
+    "logger",
+    "bunyan"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "tap": "0.3.x",
+    "bunyan": "0.16.x"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": "0.8",
+    "npm": "1"
+  }
+}
