@@ -1,7 +1,7 @@
 {
   "name": "bunyan-serializers",
   "description": "A few customized serializers for the bunyan logging framework",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Admazely <dev@admaze.ly>",
   "maintainers": [
     "AndreasMadsen <andreas@admaze.ly>",
@@ -11,7 +11,7 @@
   "scripts": {
     "test": "tap ./test"
   },
-  "repository" : {
+  "repository": {
     "type": "git",
     "url": "git://github.com/Admazely/bunyan-serializers.git"
   },
